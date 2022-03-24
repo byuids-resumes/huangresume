@@ -31,15 +31,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
 `January 2021 - July 2021`
 __Oracle__, Software Intern
 
@@ -53,6 +44,16 @@ __Amazon__, ConsultantIT Problem Solver
 - Enhanced troubleshooting and communication abilities while providing timely technical support 
 - Built in quality, speed, and process optimization during the peak season. 
 
+
+
+### Data Science Lead
+
+`January 2028 - June 2028`
+__Pacific Northwest National Lab__, Richland, WA
+
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
 
 ### Data Science Consulting Team
 
