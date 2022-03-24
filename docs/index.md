@@ -3,7 +3,7 @@ layout: cv
 title: Jason Huang's Resume
 ---
 # Jason Huang
-Software Engineering major in BYU-Idaho.
+Software Engineering student at BYU-Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,12 +16,12 @@ Software Engineering major in BYU-Idaho.
 
 ## Education
 
-`2025-2027`
+`2019-2020`
 __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
