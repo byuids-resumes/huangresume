@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Jason Huang's Resume
+This is an update from Carlos Gerez That you can dismiss.( to project 6)
 ---
 # Jason Huang
 Software Engineering student at BYU-Idaho.
