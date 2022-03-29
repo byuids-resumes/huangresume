@@ -3,7 +3,7 @@ layout: cv
 title: Jason Huang's Resume
 ---
 # Jason Huang
-Software Engineering student at BYU-Idaho.
+Software Engineering student at BYU-Idaho. Hi Jason, This its a change made from Carlos Gerez for project 6
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
